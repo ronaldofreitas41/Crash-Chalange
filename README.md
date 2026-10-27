@@ -1,5 +1,4 @@
 # 🎮 Crash Game — Documentação Técnica
-### Desafio Jungle Gaming
 
 ---
 
